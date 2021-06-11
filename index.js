@@ -1,0 +1,10 @@
+console.log('Helllo Winc Academy');
+let name = "Seline";
+console.log(name);
+let eersteGetal = 4;
+let tweedeGetal = 4;
+console.log(eersteGetal + tweedeGetal);
+let derdeGetal = "4";
+let vierdeGetal = "4";
+console.log(derdeGetal + vierdeGetal);
+let age = "22";
